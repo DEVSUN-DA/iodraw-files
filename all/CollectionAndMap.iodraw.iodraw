@@ -163,7 +163,7 @@
           <mxGeometry x="890" y="330" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-71" value="&lt;span&gt;HashSet-&amp;gt;&lt;/span&gt;transient HashMap&amp;lt;E,Object&amp;gt; map |&amp;nbsp;transient Set&amp;lt;K&amp;gt; keySet，transient Collection&amp;lt;V&amp;gt; values" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="510" y="400" width="580" height="30" as="geometry" />
+          <mxGeometry x="630" y="400" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-65" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="430" width="550" height="260" as="geometry" />
@@ -213,7 +213,7 @@
           <mxGeometry x="670" y="470" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-82" value="final class EntrySet extends AbstractSet&amp;lt;Map.Entry&amp;lt;K,V&amp;gt;&amp;gt;&lt;div&gt;&lt;div&gt;static class Node&amp;lt;K,V&amp;gt; implements Map.Entry&amp;lt;K,V&amp;gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; final int hash;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; final K key;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; V value;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Node&amp;lt;K,V&amp;gt; next;}&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="705" width="340" height="110" as="geometry" />
+          <mxGeometry x="630" y="690" width="340" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
