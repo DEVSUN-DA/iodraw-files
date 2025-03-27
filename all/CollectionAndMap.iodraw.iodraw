@@ -159,8 +159,8 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-61" value="Collection有序单列集合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-62">
           <mxGeometry x="412.5" y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-63" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="848" width="50" height="30" as="geometry" />
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-63" value="Set无重复无序单列集合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="848" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
