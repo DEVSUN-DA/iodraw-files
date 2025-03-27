@@ -28,7 +28,7 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-6" value="null" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-9">
           <mxGeometry x="240" y="25" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-7" value="null" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-9">
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-7" value="null" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-9">
           <mxGeometry x="310" y="25" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-10" value="&lt;b&gt;ArrayList-&amp;gt;transient Object[] elementData&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -37,13 +37,13 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-11" value="扩容机制：&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 使用无参构造器,则初始的elementData容量为 &quot;0&quot; ,&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;第一次添加扩容为 10, 再次扩容则为 1.5 倍;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2. 使用指定构造大小的构造器,需要扩容直接扩为elementData的 1.5 倍;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-290" y="1170" width="530" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-12" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-12" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="240" y="1060" width="410" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-12">
           <mxGeometry width="410" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-14" value="Object1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-12">
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-14" value="Object1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-12">
           <mxGeometry x="30" y="25" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-15" value="Integer1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-12">
