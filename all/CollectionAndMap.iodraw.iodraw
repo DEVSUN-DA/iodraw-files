@@ -162,8 +162,8 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-63" value="Set无重复无序+有序单列集合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="890" y="330" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-71" value="&lt;span&gt;HashSet-&amp;gt;&lt;/span&gt;transient HashMap&amp;lt;E,Object&amp;gt; map" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="665" y="400" width="270" height="30" as="geometry" />
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-71" value="&lt;span&gt;HashSet-&amp;gt;&lt;/span&gt;transient HashMap&amp;lt;E,Object&amp;gt; map |&amp;nbsp;transient Set&amp;lt;K&amp;gt; keySet，transient Collection&amp;lt;V&amp;gt; values" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-65" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="430" width="550" height="260" as="geometry" />
