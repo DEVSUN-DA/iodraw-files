@@ -31,8 +31,8 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-10" value="&lt;b&gt;ArrayList-&amp;gt;transient Object[] elementData&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-290" y="1030" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-11" value="扩容机制：使用无参构造器,则初始的elementData容量为 &quot;0&quot; ,第一次添加扩容为 10,如需再次扩容则可容维elementData的 1.5 倍;&lt;div&gt;使用指定构造大小的构造器,需要扩容直接扩为elementData的 1.5 倍;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="935" width="700" height="40" as="geometry" />
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-11" value="扩容机制：&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;使用无参构造器,则初始的elementData容量为 &quot;0&quot; ,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;第一次添加扩容为 10,如需再次扩容则可容维elementData的 1.5 倍;&lt;div&gt;使用指定构造大小的构造器,需要扩容直接扩为elementData的 1.5 倍;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-136" y="1165" width="390" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
