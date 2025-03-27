@@ -177,7 +177,7 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zy8IpGDQ0cJmYCaGJBdB-68" target="Zy8IpGDQ0cJmYCaGJBdB-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-91" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zy8IpGDQ0cJmYCaGJBdB-90">
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-91" value="next" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zy8IpGDQ0cJmYCaGJBdB-90">
           <mxGeometry x="0.0052" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -220,8 +220,8 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-77" value="HashCode函数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="665" y="501.68" width="655" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-82" value="final class EntrySet extends AbstractSet&amp;lt;Map.Entry&amp;lt;K,V&amp;gt;&amp;gt;&lt;div&gt;&lt;div&gt;static class Node&amp;lt;K,V&amp;gt; implements Map.Entry&amp;lt;K,V&amp;gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; final int hash;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; final K key;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; V value;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Node&amp;lt;K,V&amp;gt; next;}&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="780" width="340" height="110" as="geometry" />
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-82" value="final class EntrySet extends AbstractSet&amp;lt;Map.Entry&amp;lt;K,V&amp;gt;&amp;gt;&lt;div&gt;&lt;div&gt;static class Node&amp;lt;K,V&amp;gt; implements Map.Entry&amp;lt;K,V&amp;gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; final int hash;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; final K key;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; V value;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Node&amp;lt;K,V&amp;gt; next;}&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1. 无序：不能依赖于元素被添加到 HashSet 中的顺序来预测它们被迭代时的顺序。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2.&amp;nbsp;允许一个空元素：HashSet 允许存储一个 null 值。这是因为 HashSet 底层使用的 HashMap 只允许有一个键为 null 的条目。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3.&amp;nbsp;键重复：HashSet 不允许存储重复的元素。这里的“重复”是根据 equals() 方法判断的。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;如果两个元素通过 equals() 方法被认为是相等的，则它们在 HashSet 中被视为重复，新添加的相同元素不会增加集合的大小。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="755" width="690" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#d79b00;gradientColor=none;textOpacity=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="612.5" y="555" width="887.5" height="100" as="geometry" />
