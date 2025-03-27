@@ -31,8 +31,8 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-10" value="&lt;b&gt;ArrayList-&amp;gt;transient Object[] elementData&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-170" y="975" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="125" y="958" width="50" height="30" as="geometry" />
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-11" value="使用无参构造器,则初始的elementData容量为 &quot;0&quot; ,第一次添加扩容为 10,如需再次扩容则可容维elementData的 1.5 倍;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="958" width="640" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
