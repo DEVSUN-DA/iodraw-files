@@ -159,8 +159,8 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-61" value="Collection有重复有序单列集合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-62">
           <mxGeometry x="392.5" y="30" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-63" value="Set无重复无序单列集合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="910" y="330" width="180" height="30" as="geometry" />
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-63" value="Set无重复无序+有序单列集合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="890" y="330" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-64" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="670" y="430" width="410" height="110" as="geometry" />
@@ -183,8 +183,8 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-70" value="null" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-64">
           <mxGeometry x="310" y="25" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-71" value="&lt;b&gt;HashSet-&amp;gt;&lt;/b&gt;transient HashMap&amp;lt;E,Object&amp;gt; ma" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="400" width="260" height="30" as="geometry" />
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-71" value="&lt;span&gt;HashSet-&amp;gt;&lt;/span&gt;transient HashMap&amp;lt;E,Object&amp;gt; ma" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="670" y="400" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
