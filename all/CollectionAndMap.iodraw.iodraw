@@ -58,8 +58,8 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-19" value="&lt;b&gt;Vector-&amp;gt;protected Object[] elementData&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="1030" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-20" value="扩容机制：&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 使用无参构造器,则初始的elementData容量为 &quot;0&quot; ,&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;第一次添加扩容为 10, 再次扩容则为 1.5 倍;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2. 使用指定构造大小的构造器,需要扩容直接扩为elementData的 1.5 倍;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1170" width="530" height="60" as="geometry" />
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-20" value="扩容机制：&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;无参构造出是扩容为 10 ,第二次扩容为 2 倍;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 使用指定大小的构造器,首次扩容为 2 倍;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1170" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
