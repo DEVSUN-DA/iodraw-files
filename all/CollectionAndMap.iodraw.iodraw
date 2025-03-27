@@ -248,7 +248,7 @@
           <mxGeometry x="630" y="430" width="960" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#d79b00;gradientColor=none;textOpacity=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="612.5" y="555" width="887.5" height="100" as="geometry" />
+          <mxGeometry x="612.5" y="555" width="1037.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-66" value="HashMap$Node&lt;div&gt;&amp;lt;key,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;PRESENT&lt;/span&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="570" width="150" height="70" as="geometry" />
@@ -306,7 +306,7 @@
           <mxGeometry x="630" y="780" width="770" height="360" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-84" value="HashMap$entrySet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="560" width="130" height="30" as="geometry" />
+          <mxGeometry x="1517.5" y="560" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-86" value="HashMap$keySet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;strokeWidth=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1560" y="598.13" width="90" height="20" as="geometry" />
