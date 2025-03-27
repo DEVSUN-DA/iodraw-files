@@ -215,8 +215,8 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-82" value="final class EntrySet extends AbstractSet&amp;lt;Map.Entry&amp;lt;K,V&amp;gt;&amp;gt;&lt;div&gt;&lt;div&gt;static class Node&amp;lt;K,V&amp;gt; implements Map.Entry&amp;lt;K,V&amp;gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; final int hash;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; final K key;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; V value;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Node&amp;lt;K,V&amp;gt; next;}&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="690" width="340" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-83" value="" style="rounded=1;whiteSpace=wrap;html=1;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="560" width="730" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
