@@ -153,8 +153,8 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-58" value="last" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="325" y="1420" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-61" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="848" width="50" height="30" as="geometry" />
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-61" value="Collection有序单列集合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="848" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
