@@ -16,10 +16,10 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-9">
           <mxGeometry width="410" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-2" value="Object1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-9">
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-2" value="Object1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-9">
           <mxGeometry x="30" y="25" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-4" value="Integer1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-9">
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-4" value="Integer1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-9">
           <mxGeometry x="100" y="25" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-5" value="Double2.0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-9">
