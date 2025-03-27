@@ -61,32 +61,29 @@
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-20" value="扩容机制：&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;无参构造出是扩容为 10 ,第二次扩容为 2 倍;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 使用指定大小的构造器,首次扩容为 2 倍;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="1170" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-290" y="1370" width="410" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-21">
-          <mxGeometry width="410" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-23" value="Object1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-21">
-          <mxGeometry x="30" y="25" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-24" value="Integer1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-21">
-          <mxGeometry x="100" y="25" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-25" value="Double2.0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-21">
-          <mxGeometry x="170" y="25" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-26" value="null" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-21">
-          <mxGeometry x="240" y="25" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-27" value="null" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zy8IpGDQ0cJmYCaGJBdB-21">
-          <mxGeometry x="310" y="25" width="70" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-28" value="&lt;div style=&quot;orphans: 2; text-align: center;&quot;&gt;&lt;strong style=&quot;color: var(--title-color); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-family: Helvetica, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; letter-spacing: 0.5px; orphans: 4; text-align: left; white-space: pre-wrap; background-color: rgb(250, 250, 250);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;&quot; class=&quot;md-plain&quot;&gt;LinkedList&lt;/span&gt;&lt;/strong&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;-&amp;gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Node&amp;lt;E&amp;gt; first&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Node&amp;lt;E&amp;gt; last&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-285" y="1340" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-29" value="&lt;div&gt;private static class Node&amp;lt;E&amp;gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; E item;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Node&amp;lt;E&amp;gt; next;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Node&amp;lt;E&amp;gt; prev;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Node(Node&amp;lt;E&amp;gt; prev, E element, Node&amp;lt;E&amp;gt; next) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; this.item = element;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; this.next = next;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; this.prev = prev;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-285" y="1490" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1370" width="410" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-23" value="Object1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1395" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-24" value="Integer1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1395" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-25" value="Double2.0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1395" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-26" value="null" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1395" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy8IpGDQ0cJmYCaGJBdB-27" value="null" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1395" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
